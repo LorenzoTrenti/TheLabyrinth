@@ -3,7 +3,6 @@ English:
 The provided Python code is a maze game created using the Pygame library. Here is a brief summary of its features:
 
 Maze generation: A grid of walls (#) and paths ( ) is created, with a starting point (S) and an endpoint (F).
-
 The maze is structured based on parameters such as the number of rows, columns, and wall dimensions.
 Graphical display: The game uses Pygame to draw the maze on the screen. Specific colors are defined for elements such as walls, the path, and the start and end points.
 Structure control: A function called "controllo" ensures that the walls are placed consistently, preventing the paths from being excessively open or interrupted.
